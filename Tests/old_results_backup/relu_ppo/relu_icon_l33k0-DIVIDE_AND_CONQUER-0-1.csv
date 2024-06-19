@@ -1,0 +1,18 @@
+Method "Max Step Size Order" "Min Step Size Order" "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER 0 -1 30000 5 571 1 True False 0.001
+epochs "sub epochs" "run time" "training objective" "test regret" "val regret" pred_Ys
+0.0 0.0 0.0 -3380700.0 56549.99999999977 7550.0
+0.0 1.0 5251.827210664749 56500.0 57150.0 13150.0
+1.0 2.0 8681.519673109055 52200.0 58750.0 13150.0
+2.0 3.0 12404.684048175812 50800.0 58750.0 12450.0
+3.0 4.0 16783.569815158844 52200.0 58750.0 11750.0
+4.0 5.0 21219.307887792587 50800.0 54150.0 11750.0
+Method "Max Step Size Order" "Min Step Size Order" "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER 0 -1 30000 5 571 1 True False 0.001
+epochs "sub epochs" "run time" "training objective" "test regret" "val regret" pred_Ys
+0.0 0.0 0.0 -3352100.0 56000.0 13850.0
+0.0 1.0 5063.156080722809 55400.0 48200.0 22400.0
+1.0 2.0 10149.47545838356 58700.0 48950.0 22400.0
+2.0 3.0 15251.825339317322 57100.0 48950.0 22400.0
+3.0 4.0 20311.935752391815 57100.0 48950.0 22400.0
+4.0 5.0 25427.79886507988 57100.0 48950.0 22400.0

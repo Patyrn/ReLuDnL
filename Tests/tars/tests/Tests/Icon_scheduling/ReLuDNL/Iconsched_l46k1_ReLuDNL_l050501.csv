@@ -1,0 +1,162 @@
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 106600.0 -6261900.0 89700.0 -1.432 774.582
+0.0 1.0 2101.758 -6470000.0 117100.0 -6261900.0 98000.0 -1.565 9747.009
+1.0 2.0 3649.095 -6470000.0 117100.0 -6261900.0 98000.0 -1.565 9747.009
+2.0 3.0 5215.806 -6470000.0 117100.0 -6261900.0 98000.0 -1.565 9747.009
+3.0 4.0 7189.409 -6470000.0 117100.0 -6261900.0 98000.0 -1.565 9747.009
+4.0 5.0 9209.84 -6470000.0 117100.0 -6261900.0 98000.0 -1.565 9747.009
+5.0 6.0 11176.973 -6470000.0 117100.0 -6261900.0 98000.0 -1.565 9747.009
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 17 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 116600.0 -6261900.0 116200.0 -1.856 754.052
+0.0 1.0 6904.901 -6470000.0 106900.0 -6261900.0 76800.0 -1.226 1158.948
+1.0 2.0 11916.586 -6470000.0 94900.0 -6261900.0 87200.0 -1.393 964.672
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 137900.0 -6261900.0 185200.0 -2.958 772.14
+0.0 1.0 1226.895 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+1.0 2.0 1545.422 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+2.0 3.0 1880.414 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+3.0 4.0 2215.533 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+4.0 5.0 2559.036 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+5.0 6.0 2901.417 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+6.0 7.0 3248.569 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+7.0 8.0 3584.785 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+8.0 9.0 3920.511 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+9.0 10.0 4252.473 -6470000.0 131500.0 -6261900.0 142000.0 -2.268 774.031
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 86 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 124000.0 -6261900.0 97100.0 -1.551 796.33
+0.0 1.0 34609.017 -6470000.0 106900.0 -6261900.0 116200.0 -1.856 930.646
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 17 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 116600.0 -6261900.0 102100.0 -1.63 769.659
+0.0 1.0 6129.171 -6470000.0 117100.0 -6261900.0 98900.0 -1.579 1292.546
+1.0 2.0 10977.728 -6470000.0 117100.0 -6261900.0 102100.0 -1.63 1294.416
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+0.0 1.0 2162.227 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+1.0 2.0 2876.321 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+2.0 3.0 3575.821 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+3.0 4.0 4288.708 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+4.0 5.0 4990.673 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+5.0 6.0 5703.796 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+6.0 7.0 6422.971 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+7.0 8.0 7132.243 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+8.0 9.0 7861.083 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+9.0 10.0 8578.078 -6470000.0 155600.0 -6261900.0 113900.0 -1.819 771.558
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 148700.0 -6261900.0 161800.0 -2.584 775.111
+0.0 1.0 2794.344 -6470000.0 127300.0 -6261900.0 132900.0 -2.122 3529.029
+1.0 2.0 4433.975 -6470000.0 162800.0 -6261900.0 137300.0 -2.193 2450.505
+2.0 3.0 6674.196 -6470000.0 148400.0 -6261900.0 126400.0 -2.019 2322.314
+3.0 4.0 8634.4 -6470000.0 148400.0 -6261900.0 126400.0 -2.019 2322.314
+4.0 5.0 10685.097 -6470000.0 148400.0 -6261900.0 126400.0 -2.019 2322.314
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 17 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 130400.0 -6261900.0 119400.0 -1.907 783.79
+0.0 1.0 7626.092 -6470000.0 113500.0 -6261900.0 75900.0 -1.212 2405.348
+1.0 2.0 12909.193 -6470000.0 113500.0 -6261900.0 75900.0 -1.212 2405.348
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 137900.0 -6261900.0 149700.0 -2.391 775.294
+0.0 1.0 1423.944 -6470000.0 144700.0 -6261900.0 131500.0 -2.1 1816.139
+1.0 2.0 1958.894 -6470000.0 144700.0 -6261900.0 131500.0 -2.1 1816.139
+2.0 3.0 2598.171 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+3.0 4.0 3175.346 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+4.0 5.0 3780.541 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+5.0 6.0 4370.272 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+6.0 7.0 4950.437 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+7.0 8.0 5532.17 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+8.0 9.0 6090.054 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+9.0 10.0 6688.324 -6470000.0 152500.0 -6261900.0 114900.0 -1.835 1868.954
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 17 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 189900.0 -6261900.0 183700.0 -2.934 797.22
+0.0 1.0 5838.545 -6470000.0 117100.0 -6261900.0 108900.0 -1.739 943.869
+1.0 2.0 10322.182 -6470000.0 117100.0 -6261900.0 108900.0 -1.739 943.869
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+0.0 1.0 1262.488 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+1.0 2.0 1636.108 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+2.0 3.0 2007.539 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+3.0 4.0 2379.145 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+4.0 5.0 2749.51 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+5.0 6.0 3153.972 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+6.0 7.0 3532.676 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+7.0 8.0 3911.772 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+8.0 9.0 4295.508 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+9.0 10.0 4673.288 -6470000.0 124000.0 -6261900.0 124500.0 -1.988 782.919
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 124000.0 -6261900.0 124000.0 -1.98 781.3
+0.0 1.0 1416.894 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+1.0 2.0 2339.433 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+2.0 3.0 3045.063 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+3.0 4.0 3846.78 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+4.0 5.0 4345.517 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+5.0 6.0 4848.959 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+6.0 7.0 5364.859 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+7.0 8.0 5852.855 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+8.0 9.0 6362.592 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+9.0 10.0 6865.583 -6470000.0 130400.0 -6261900.0 114900.0 -1.835 1152.512
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 17 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 124000.0 -6261900.0 177900.0 -2.841 777.266
+0.0 1.0 7254.665 -6470000.0 124000.0 -6261900.0 102100.0 -1.63 835.757
+1.0 2.0 11973.725 -6470000.0 124000.0 -6261900.0 102100.0 -1.63 835.757
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 86 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 117100.0 -6261900.0 85600.0 -1.367 802.946
+0.0 1.0 46488.0 -6470000.0 148400.0 -6261900.0 98100.0 -1.567 2530.331
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 148700.0 -6261900.0 85600.0 -1.367 775.757
+0.0 1.0 2298.763 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+1.0 2.0 3495.074 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+2.0 3.0 4659.307 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+3.0 4.0 5871.17 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+4.0 5.0 7047.547 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+5.0 6.0 8194.957 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+6.0 7.0 9416.827 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+7.0 8.0 10612.139 -6470000.0 117100.0 -6261900.0 97100.0 -1.551 922.161
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 17 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 117100.0 -6261900.0 128200.0 -2.047 780.327
+0.0 1.0 4607.164 -6470000.0 148400.0 -6261900.0 97100.0 -1.551 2285.711
+1.0 2.0 8338.896 -6470000.0 148400.0 -6261900.0 97100.0 -1.551 2285.711
+2.0 3.0 12026.279 -6470000.0 130400.0 -6261900.0 124500.0 -1.988 1127.016
+Method "Max Step Size Order" "Min Step Size Order" "Layer params" params_per_epoch leaky_slope "Run Time Limit" "Epoch Limit" "Mini Batch Size" "Learning rate" Parallelism Bias "L2 Lambda"
+DIVIDE_AND_CONQUER_GREEDY 1 -1 "[9, 5, 5, 1]" 8 0.2 10000 10 571 1 True False 0.001
+epochs "sub epochs" "run time" "val obj" "val regret" "test obj" "test regret" "regret ratio%" test_MSE
+0.0 0.0 0.0 -6470000.0 118300.0 -6261900.0 128200.0 -2.047 777.937
+0.0 1.0 2115.841 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+1.0 2.0 2711.987 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+2.0 3.0 3333.581 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+3.0 4.0 3979.882 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+4.0 5.0 4637.039 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+5.0 6.0 5273.705 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+6.0 7.0 5904.706 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+7.0 8.0 6538.806 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+8.0 9.0 7168.637 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
+9.0 10.0 7801.61 -6470000.0 113700.0 -6261900.0 132800.0 -2.121 865.634
